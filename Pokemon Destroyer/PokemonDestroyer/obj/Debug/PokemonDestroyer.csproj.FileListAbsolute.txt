@@ -1,0 +1,29 @@
+C:\Users\amadeususer\Desktop\Intern\SELENIUM\PokemonDestroyer\PokemonDestroyer\PokemonDestroyer\bin\Debug\PokemonDestroyer.exe.config
+C:\Users\amadeususer\Desktop\Intern\SELENIUM\PokemonDestroyer\PokemonDestroyer\PokemonDestroyer\bin\Debug\PokemonDestroyer.exe
+C:\Users\amadeususer\Desktop\Intern\SELENIUM\PokemonDestroyer\PokemonDestroyer\PokemonDestroyer\bin\Debug\PokemonDestroyer.pdb
+C:\Users\amadeususer\Desktop\Intern\SELENIUM\PokemonDestroyer\PokemonDestroyer\PokemonDestroyer\bin\Debug\WebDriver.dll
+C:\Users\amadeususer\Desktop\Intern\SELENIUM\PokemonDestroyer\PokemonDestroyer\PokemonDestroyer\bin\Debug\WebDriver.Support.dll
+C:\Users\amadeususer\Desktop\Intern\SELENIUM\PokemonDestroyer\PokemonDestroyer\PokemonDestroyer\bin\Debug\WebDriver.xml
+C:\Users\amadeususer\Desktop\Intern\SELENIUM\PokemonDestroyer\PokemonDestroyer\PokemonDestroyer\bin\Debug\WebDriver.Support.xml
+C:\Users\amadeususer\Desktop\Intern\SELENIUM\PokemonDestroyer\PokemonDestroyer\PokemonDestroyer\obj\Debug\PokemonDestroyer.csprojAssemblyReference.cache
+C:\Users\amadeususer\Desktop\Intern\SELENIUM\PokemonDestroyer\PokemonDestroyer\PokemonDestroyer\obj\Debug\PokemonDestroyer.Form1.resources
+C:\Users\amadeususer\Desktop\Intern\SELENIUM\PokemonDestroyer\PokemonDestroyer\PokemonDestroyer\obj\Debug\PokemonDestroyer.Properties.Resources.resources
+C:\Users\amadeususer\Desktop\Intern\SELENIUM\PokemonDestroyer\PokemonDestroyer\PokemonDestroyer\obj\Debug\PokemonDestroyer.csproj.GenerateResource.cache
+C:\Users\amadeususer\Desktop\Intern\SELENIUM\PokemonDestroyer\PokemonDestroyer\PokemonDestroyer\obj\Debug\PokemonDestroyer.csproj.CoreCompileInputs.cache
+C:\Users\amadeususer\Desktop\Intern\SELENIUM\PokemonDestroyer\PokemonDestroyer\PokemonDestroyer\obj\Debug\PokemonDestroyer.csproj.CopyComplete
+C:\Users\amadeususer\Desktop\Intern\SELENIUM\PokemonDestroyer\PokemonDestroyer\PokemonDestroyer\obj\Debug\PokemonDestroyer.exe
+C:\Users\amadeususer\Desktop\Intern\SELENIUM\PokemonDestroyer\PokemonDestroyer\PokemonDestroyer\obj\Debug\PokemonDestroyer.pdb
+D:\C#_Files\Pokemon Destroyer\PokemonDestroyer\bin\Debug\PokemonDestroyer.exe.config
+D:\C#_Files\Pokemon Destroyer\PokemonDestroyer\bin\Debug\PokemonDestroyer.exe
+D:\C#_Files\Pokemon Destroyer\PokemonDestroyer\bin\Debug\PokemonDestroyer.pdb
+D:\C#_Files\Pokemon Destroyer\PokemonDestroyer\bin\Debug\WebDriver.dll
+D:\C#_Files\Pokemon Destroyer\PokemonDestroyer\bin\Debug\WebDriver.Support.dll
+D:\C#_Files\Pokemon Destroyer\PokemonDestroyer\bin\Debug\WebDriver.xml
+D:\C#_Files\Pokemon Destroyer\PokemonDestroyer\bin\Debug\WebDriver.Support.xml
+D:\C#_Files\Pokemon Destroyer\PokemonDestroyer\obj\Debug\PokemonDestroyer.csprojAssemblyReference.cache
+D:\C#_Files\Pokemon Destroyer\PokemonDestroyer\obj\Debug\PokemonDestroyer.Form1.resources
+D:\C#_Files\Pokemon Destroyer\PokemonDestroyer\obj\Debug\PokemonDestroyer.Properties.Resources.resources
+D:\C#_Files\Pokemon Destroyer\PokemonDestroyer\obj\Debug\PokemonDestroyer.csproj.GenerateResource.cache
+D:\C#_Files\Pokemon Destroyer\PokemonDestroyer\obj\Debug\PokemonDestroyer.csproj.CopyComplete
+D:\C#_Files\Pokemon Destroyer\PokemonDestroyer\obj\Debug\PokemonDestroyer.exe
+D:\C#_Files\Pokemon Destroyer\PokemonDestroyer\obj\Debug\PokemonDestroyer.pdb
